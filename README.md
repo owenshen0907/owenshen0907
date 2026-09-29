@@ -53,11 +53,17 @@
 
 ## 公开代码
 
-| 项目 | 做什么 |
-| :-- | :-- |
-| [AiTool ↗](https://github.com/owenshen0907/AiTool) | 集成 Prompt、语音、图像与 Agent 能力的 AI 工具集。 |
-| [Owen's Cats TTS Web ↗](https://github.com/owenshen0907/tts-stepfun-web) | 基于 StepFun 的文字转语音网页应用。 |
-| [patch-courier ↗](https://github.com/owenshen0907/patch-courier) | 把可信邮件对话接入本地 Codex 工作流。 |
+<table>
+  <tr>
+    <td><strong><a href="https://github.com/owenshen0907/AiTool">AiTool ↗</a></strong><br>集成 Prompt、语音、图像与 Agent 能力的 AI 工具集。</td>
+  </tr>
+  <tr>
+    <td><strong><a href="https://github.com/owenshen0907/tts-stepfun-web">Owen's Cats TTS Web ↗</a></strong><br>基于 StepFun 的文字转语音网页应用。</td>
+  </tr>
+  <tr>
+    <td><strong><a href="https://github.com/owenshen0907/patch-courier">patch-courier ↗</a></strong><br>把可信邮件对话接入本地 Codex 工作流。</td>
+  </tr>
+</table>
 
 ---
 
