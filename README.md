@@ -18,7 +18,7 @@
 
 ## 手边的四件事
 
-<table>
+<table width="100%">
   <tr>
     <td valign="top">
       <sub>01 · AGENT 协作</sub><br>
@@ -53,7 +53,7 @@
 
 ## 公开代码
 
-<table>
+<table width="100%">
   <tr>
     <td><strong><a href="https://github.com/owenshen0907/AiTool">AiTool ↗</a></strong><br>集成 Prompt、语音、图像与 Agent 能力的 AI 工具集。</td>
   </tr>
