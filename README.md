@@ -18,30 +18,30 @@
 
 ## 手边的四件事
 
-<table width="100%">
+<table align="center">
   <tr>
-    <td valign="top">
+    <td align="left" valign="top">
       <sub>01 · AGENT 协作</sub><br>
       <strong><a href="https://owenshen.top/products/personal-workstation">个人工作站 ↗</a></strong><br><br>
       把散在多个 Agent 线程里的任务、上下文和能力接到一处。桌面 App，持续迭代中。
     </td>
   </tr>
   <tr>
-    <td valign="top">
+    <td align="left" valign="top">
       <sub>02 · 语言工具</sub><br>
       <strong><a href="https://owenshen.top/products/tingdong">听懂 ↗</a></strong><br><br>
       给日语对话配上实时中文字幕，也在轮到我开口时帮我找到下一句。目前仍在自用和打磨。
     </td>
   </tr>
   <tr>
-    <td valign="top">
+    <td align="left" valign="top">
       <sub>03 · 日语学习</sub><br>
       <strong><a href="https://owenshen.top/products/language-learning">把日语学进日常 ↗</a></strong><br><br>
       从查词、留下遇到的句子，到真正开口练习；三款小产品正在各自推进。
     </td>
   </tr>
   <tr>
-    <td valign="top">
+    <td align="left" valign="top">
       <sub>04 · 桌面实验</sub><br>
       <strong><a href="https://owenshen.top/products/cat-host">一只还没出道的猫 ↗</a></strong><br><br>
       以我家的猫为原型做的 macOS 桌宠。它已经能在桌面上待着，接下来想让它开口。
@@ -53,15 +53,15 @@
 
 ## 公开代码
 
-<table width="100%">
+<table align="center">
   <tr>
-    <td><strong><a href="https://github.com/owenshen0907/AiTool">AiTool ↗</a></strong><br>集成 Prompt、语音、图像与 Agent 能力的 AI 工具集。</td>
+    <td align="left"><strong><a href="https://github.com/owenshen0907/AiTool">AiTool ↗</a></strong><br>集成 Prompt、语音、图像与 Agent 能力的 AI 工具集。</td>
   </tr>
   <tr>
-    <td><strong><a href="https://github.com/owenshen0907/tts-stepfun-web">Owen's Cats TTS Web ↗</a></strong><br>基于 StepFun 的文字转语音网页应用。</td>
+    <td align="left"><strong><a href="https://github.com/owenshen0907/tts-stepfun-web">Owen's Cats TTS Web ↗</a></strong><br>基于 StepFun 的文字转语音网页应用。</td>
   </tr>
   <tr>
-    <td><strong><a href="https://github.com/owenshen0907/patch-courier">patch-courier ↗</a></strong><br>把可信邮件对话接入本地 Codex 工作流。</td>
+    <td align="left"><strong><a href="https://github.com/owenshen0907/patch-courier">patch-courier ↗</a></strong><br>把可信邮件对话接入本地 Codex 工作流。</td>
   </tr>
 </table>
 
